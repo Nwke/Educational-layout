@@ -1,1 +1,2 @@
-# Educational-layout
+# Верстка макета "Барбершоп" с сайта htmlacademy
+***
