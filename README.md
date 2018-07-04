@@ -1,3 +1,3 @@
 # Верстка макета "Барбершоп" с сайта htmlacademy
 ***
-Created by Denis on 24.06.2017.
+Created by Nwke on 24.06.2017.
